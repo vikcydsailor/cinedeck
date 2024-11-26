@@ -1,0 +1,74 @@
+"filename", "language", "JavaScript JSX", "SCSS", "JavaScript", "CSS", "XML", "JSON", "HTML", "JSON with Comments", "Markdown", "comment", "blank", "total"
+"/Users/vivek/WebstormProjects/react-movie/.idea/dbnavigator.xml", "XML", 0, 0, 0, 0, 407, 0, 0, 0, 0, 0, 0, 407
+"/Users/vivek/WebstormProjects/react-movie/.idea/modules.xml", "XML", 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 8
+"/Users/vivek/WebstormProjects/react-movie/.idea/react-movie.iml", "XML", 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 12
+"/Users/vivek/WebstormProjects/react-movie/.idea/vcs.xml", "XML", 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 6
+"/Users/vivek/WebstormProjects/react-movie/.idea/watcherTasks.xml", "XML", 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 4
+"/Users/vivek/WebstormProjects/react-movie/README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 0, 14, 0, 14, 28
+"/Users/vivek/WebstormProjects/react-movie/jsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 1, 8
+"/Users/vivek/WebstormProjects/react-movie/package-lock.json", "JSON", 0, 0, 0, 0, 0, 24716, 0, 0, 0, 0, 1, 24717
+"/Users/vivek/WebstormProjects/react-movie/package.json", "JSON", 0, 0, 0, 0, 0, 51, 0, 0, 0, 0, 1, 52
+"/Users/vivek/WebstormProjects/react-movie/public/index.html", "HTML", 0, 0, 0, 0, 0, 0, 20, 0, 0, 23, 1, 44
+"/Users/vivek/WebstormProjects/react-movie/public/manifest.json", "JSON", 0, 0, 0, 0, 0, 25, 0, 0, 0, 0, 1, 26
+"/Users/vivek/WebstormProjects/react-movie/src/App.js", "JavaScript", 0, 0, 21, 0, 0, 0, 0, 0, 0, 0, 6, 27
+"/Users/vivek/WebstormProjects/react-movie/src/App.scss", "SCSS", 0, 65, 0, 0, 0, 0, 0, 0, 0, 0, 20, 85
+"/Users/vivek/WebstormProjects/react-movie/src/api/apiConfig.js", "JavaScript", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"/Users/vivek/WebstormProjects/react-movie/src/api/axiosBackend.js", "JavaScript", 0, 0, 19, 0, 0, 0, 0, 0, 0, 6, 4, 29
+"/Users/vivek/WebstormProjects/react-movie/src/api/axiosClient.js", "JavaScript", 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 6, 26
+"/Users/vivek/WebstormProjects/react-movie/src/api/tmdbApi.js", "JavaScript", 0, 0, 50, 0, 0, 0, 0, 0, 0, 2, 7, 59
+"/Users/vivek/WebstormProjects/react-movie/src/assets/boxicons-2.0.7/css/animations.css", "CSS", 0, 0, 0, 354, 0, 0, 0, 0, 0, 0, 32, 386
+"/Users/vivek/WebstormProjects/react-movie/src/assets/boxicons-2.0.7/css/boxicons.css", "CSS", 0, 0, 0, 4970, 0, 0, 0, 0, 0, 0, 55, 5025
+"/Users/vivek/WebstormProjects/react-movie/src/assets/boxicons-2.0.7/css/boxicons.min.css", "CSS", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/vivek/WebstormProjects/react-movie/src/assets/boxicons-2.0.7/css/transformations.css", "CSS", 0, 0, 0, 25, 0, 0, 0, 0, 0, 0, 6, 31
+"/Users/vivek/WebstormProjects/react-movie/src/assets/boxicons-2.0.7/fonts/boxicons.svg", "XML", 0, 0, 0, 0, 1510, 0, 0, 0, 0, 0, 0, 1510
+"/Users/vivek/WebstormProjects/react-movie/src/assets/css/Register.css", "CSS", 0, 0, 0, 59, 0, 0, 0, 0, 0, 0, 8, 67
+"/Users/vivek/WebstormProjects/react-movie/src/assets/css/Watchlist.scss", "SCSS", 0, 318, 0, 0, 0, 0, 0, 0, 0, 6, 60, 384
+"/Users/vivek/WebstormProjects/react-movie/src/assets/css/changePassword.scss", "SCSS", 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 10, 66
+"/Users/vivek/WebstormProjects/react-movie/src/assets/css/details.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/vivek/WebstormProjects/react-movie/src/assets/css/editProfile.scss", "SCSS", 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 8, 56
+"/Users/vivek/WebstormProjects/react-movie/src/assets/css/newsPageCss.scss", "SCSS", 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 12, 72
+"/Users/vivek/WebstormProjects/react-movie/src/assets/css/profile.scss", "SCSS", 0, 77, 0, 0, 0, 0, 0, 0, 0, 2, 15, 94
+"/Users/vivek/WebstormProjects/react-movie/src/components/button/Button.jsx", "JavaScript JSX", 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 33
+"/Users/vivek/WebstormProjects/react-movie/src/components/button/button.scss", "SCSS", 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 7, 44
+"/Users/vivek/WebstormProjects/react-movie/src/components/footer/Footer.jsx", "JavaScript JSX", 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 45
+"/Users/vivek/WebstormProjects/react-movie/src/components/footer/footer.scss", "SCSS", 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 9, 41
+"/Users/vivek/WebstormProjects/react-movie/src/components/header/Header.jsx", "JavaScript JSX", 80, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13, 96
+"/Users/vivek/WebstormProjects/react-movie/src/components/header/header.scss", "SCSS", 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 17, 96
+"/Users/vivek/WebstormProjects/react-movie/src/components/hero-slide/HeroSlide.jsx", "JavaScript JSX", 102, 0, 0, 0, 0, 0, 0, 0, 0, 1, 24, 127
+"/Users/vivek/WebstormProjects/react-movie/src/components/hero-slide/hero-slide.scss", "SCSS", 0, 103, 0, 0, 0, 0, 0, 0, 0, 0, 23, 126
+"/Users/vivek/WebstormProjects/react-movie/src/components/input/Input.jsx", "JavaScript JSX", 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 17
+"/Users/vivek/WebstormProjects/react-movie/src/components/input/input.scss", "SCSS", 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/vivek/WebstormProjects/react-movie/src/components/modal/Modal.jsx", "JavaScript JSX", 37, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 50
+"/Users/vivek/WebstormProjects/react-movie/src/components/modal/modal.scss", "SCSS", 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 8, 52
+"/Users/vivek/WebstormProjects/react-movie/src/components/movie-card/MovieCard.jsx", "JavaScript JSX", 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 33
+"/Users/vivek/WebstormProjects/react-movie/src/components/movie-card/movie-card.scss", "SCSS", 0, 37, 0, 0, 0, 0, 0, 0, 0, 0, 6, 43
+"/Users/vivek/WebstormProjects/react-movie/src/components/movie-grid/MovieGrid.jsx", "JavaScript JSX", 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 132
+"/Users/vivek/WebstormProjects/react-movie/src/components/movie-grid/movie-grid.scss", "SCSS", 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 8, 39
+"/Users/vivek/WebstormProjects/react-movie/src/components/movie-list/MovieList.jsx", "JavaScript JSX", 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 66
+"/Users/vivek/WebstormProjects/react-movie/src/components/movie-list/movie-list.scss", "SCSS", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 4, 16
+"/Users/vivek/WebstormProjects/react-movie/src/components/page-header/PageHeader.jsx", "JavaScript JSX", 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 17
+"/Users/vivek/WebstormProjects/react-movie/src/components/page-header/page-header.scss", "SCSS", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 6, 29
+"/Users/vivek/WebstormProjects/react-movie/src/config/Routes.jsx", "JavaScript JSX", 79, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 84
+"/Users/vivek/WebstormProjects/react-movie/src/context/AuthContext.js", "JavaScript", 0, 0, 42, 0, 0, 0, 0, 0, 0, 3, 12, 57
+"/Users/vivek/WebstormProjects/react-movie/src/index.js", "JavaScript", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"/Users/vivek/WebstormProjects/react-movie/src/pages/Catalog.jsx", "JavaScript JSX", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 29
+"/Users/vivek/WebstormProjects/react-movie/src/pages/ChangePassword.jsx", "JavaScript JSX", 78, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 86
+"/Users/vivek/WebstormProjects/react-movie/src/pages/EditProfile.jsx", "JavaScript JSX", 85, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10, 97
+"/Users/vivek/WebstormProjects/react-movie/src/pages/Home.jsx", "JavaScript JSX", 52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 60
+"/Users/vivek/WebstormProjects/react-movie/src/pages/Login.jsx", "JavaScript JSX", 56, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 63
+"/Users/vivek/WebstormProjects/react-movie/src/pages/News.jsx", "JavaScript JSX", 75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 84
+"/Users/vivek/WebstormProjects/react-movie/src/pages/Profile.jsx", "JavaScript JSX", 110, 0, 0, 0, 0, 0, 0, 0, 0, 2, 13, 125
+"/Users/vivek/WebstormProjects/react-movie/src/pages/Register.jsx", "JavaScript JSX", 57, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 63
+"/Users/vivek/WebstormProjects/react-movie/src/pages/WatchListCreate.jsx", "JavaScript JSX", 129, 0, 0, 0, 0, 0, 0, 0, 0, 10, 18, 157
+"/Users/vivek/WebstormProjects/react-movie/src/pages/WatchListSingle.jsx", "JavaScript JSX", 70, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 81
+"/Users/vivek/WebstormProjects/react-movie/src/pages/WatchlistList.jsx", "JavaScript JSX", 49, 0, 0, 0, 0, 0, 0, 0, 0, 1, 10, 60
+"/Users/vivek/WebstormProjects/react-movie/src/pages/detail/CastList.jsx", "JavaScript JSX", 28, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 36
+"/Users/vivek/WebstormProjects/react-movie/src/pages/detail/Detail.jsx", "JavaScript JSX", 147, 0, 0, 0, 0, 0, 0, 0, 0, 2, 15, 164
+"/Users/vivek/WebstormProjects/react-movie/src/pages/detail/VideoList.jsx", "JavaScript JSX", 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 59
+"/Users/vivek/WebstormProjects/react-movie/src/pages/detail/detail.scss", "SCSS", 0, 98, 0, 0, 0, 0, 0, 0, 0, 0, 19, 117
+"/Users/vivek/WebstormProjects/react-movie/src/scss/_breakpoint.scss", "SCSS", 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"/Users/vivek/WebstormProjects/react-movie/src/scss/_index.scss", "SCSS", 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"/Users/vivek/WebstormProjects/react-movie/src/scss/_mixin.scss", "SCSS", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10
+"/Users/vivek/WebstormProjects/react-movie/src/scss/_variables.scss", "SCSS", 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 6, 18
+"/Users/vivek/WebstormProjects/react-movie/tailwind.config.js", "JavaScript", 0, 0, 61, 0, 0, 0, 0, 0, 0, 1, 0, 62
+"Total", "-", 1579, 1164, 232, 5409, 1947, 24792, 20, 7, 14, 68, 665, 35897
