@@ -1,21 +1,33 @@
-import React, { useState } from "react";
+import React, { useContext, useState, useEffect } from "react";
+import { useHistory } from "react-router-dom";
 import api from "../api/axiosBackend";
 import PageHeader from '../components/page-header/PageHeader';
-import '../assets/css/Register.css'; // import the CSS file for styling
+import '../assets/css/Register.css'; // Import the CSS file for styling
+import { AuthContext } from "../context/AuthContext";
 
 function Register() {
     const [name, setName] = useState("");
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const category = 'Register';
+    const { user } = useContext(AuthContext);
+    const history = useHistory();
+
+    // Redirect to profile page if user is already authenticated
+    useEffect(() => {
+        if (user) {
+            history.push("/profile"); // Replace "/profile" with the actual route for your profile page
+        }
+    }, [user]);
 
     const handleRegister = async (e) => {
         e.preventDefault();
         try {
             // First, call the csrf-cookie endpoint
             await api.get('/sanctum/csrf-cookie');
-            await api.post("/api/register", { name,email, password });
+            await api.post("/api/register", { name, email, password });
             alert("Registration successful. You can log in now.");
+            history.push("/login"); // Redirect to login page after successful registration
         } catch (error) {
             console.error("Registration failed:", error);
         }
